@@ -10,8 +10,8 @@ title: Computer and Industrial Engineering Group (CIEG)
 email: y.j.zhou.g@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  The Computer and Industrial Engineering Group; Yanjie Zhou; Zhengzhou University; Pusan National University.
-baseurl: "lab"
-url: "https://ieqqzhao.github.io/"
+baseurl: ""
+url: "https://ieqqzhao.github.io/lab"
 
 include:
   - .htaccess
