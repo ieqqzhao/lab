@@ -72,7 +72,7 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776 **[PDF](https:/
 
 Conference Publications
 ------
-1. **Q.Q. Zhao,** W. Jeon & W.Y. Yun. Spare part inventory problem for multi-indenture systems with two-echelon inventory system.  2019 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2019), (QR2MSE 2019), Zhangjiajie, Hunan, China (Aug. 6 ~ 9, 2019). <font color="green"> Best Paper Award <font>
+1. **Q.Q. Zhao,** W. Jeon & W.Y. Yun. Spare part inventory problem for multi-indenture systems with two-echelon inventory system.  2019 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2019), (QR2MSE 2019), Zhangjiajie, Hunan, China (Aug. 6 ~ 9, 2019). <font color="green"> **Best Paper Award** <font>
 1. **Q.Q. Zhao,** Y.J. Han and W.Y. Yun. Optimal inspection and replacement strategy of 145kV GIS, The 3th international symposium on stochastic models in reliability engineering, life sciences and operations management (SMRLO 2019), Beijing, China (May. 28 ~ 31, 2019). 
 1. **Q.Q. Zhao,** A.J. Endharta and W.Y. Yun. Inspection scheduling problem of one-shot systems with nondestructive and destructive inspections. The 3th International Symposium on Stochastic Models in Reliability Engineering, Life Sciences and Operations Management (SMRLO2019), Beijing, China (May. 28 ~ 31, 2019). 
 1. **Q.Q. Zhao,** N.T.T. Mo and Won Young Yun. Simulation-based resilience analysis of mobile telecommunication network, 2019 Joint Workshop of Hiroshima University and Pusan National University (HU-PNU 2019), Hiroshima University, Japan (Jan. 18, 2019). 
