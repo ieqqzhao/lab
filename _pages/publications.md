@@ -1,7 +1,7 @@
 ---
-title: "CIEG - Publications"
+title: " Publications"
 layout: gridlay
-excerpt: "CIEG -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -56,19 +56,36 @@ permalink: /publications/
 
 Journal Publications
 ------
+## Journal Publications
 
-1. **Zhou, Y.**, & Kim, K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications.** **[PDF]( https://ieyjzhou.github.io/files/IJLRA2020.pdf)**
-1. **Zhou, Y.**, & Kim, K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering**, 144, 106466 **[PDF](https://ieyjzhou.github.io/files/CIE2020_coevolutionary.pdf)**
-1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. **Maritime Policy & Management.** **[PDF](https://ieyjzhou.github.io/files/online_version%20with_SP.pdf)** Supplemental material [PDF](https://ieyjzhou.github.io/files/Supplemental_Material_MPM_2019.pdf).
-1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
-under a limited relief budget. **Computers & Industrial Engineering**, 125, 720–728. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/CIE2018_correct_proof_version.pdf)**
-1. **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. **Applied Soft Computing**, 68, 932–943. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/KCLD_2018_Published_Version.pdf)**
-1. Gao, X., **Zhou, Y.**, Amir, M. I. H., Rosyidah, F. A., & Lee, G. M. (2017). A hybrid genetic algorithm for multi-emergency
-medical service centers location-allocation problem in disaster response. **International Journal of Industrial Engineering:
-Theory, Applications and Practice**, 24(6), 663–679. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/IJIE%202017.pdf)**
-1. Gao, Y., **Zhou, Y.**, Zhou, B., Shi, L., & Zhang, J. (2017). Handling data skew in mapreduce cluster by using partition tuning. **Journal of Healthcare Engineering**, 2017. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/JHE2017.pdf)**
-1. **Zhou, Y.**, & Lee, G. M. (2017). A lagrangian relaxation-based solution method for a green vehicle routing problem to
-minimize greenhouse gas emissions. **Sustainability**, 9(5), 776 **[PDF](https://ieyjzhou.github.io/CIEG/Paper/sustainability-09-00776.pdf)**
+1. **Zhao, Q. Q.**, & Yun, W. Y. (2018). Determining the inspection intervals for one-shot systems with support equipment. **Reliability Engineering & System Safety**, 169, 63–75.
+
+2. **Zhao, Q. Q.**, & Yun, W. Y. (2019). Storage availability of one-shot system under periodic inspection considering inspection error. **Reliability Engineering & System Safety**, 186, 120–133.
+
+3. Yun, W. Y., Jeon, W., & **Zhao, Q. Q.** (2018). Spare parts provisioning under multi-echelon and multi-level systems. **Journal of Applied Reliability**, 18(4), 370–379.
+
+4. Han, Y. J., **Zhao, Q. Q.**, & Yun, W. Y. (2019). Optimal inspection and replacement strategy of 145kV GIS. **Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability**.
+
+5. **Zhao, Q. Q.**, & Yun, W. Y. (2020). A sampling plan for one-shot systems considering destructive inspection. **Journal of Communications in Statistics – Theory and Methods**.
+
+6. Dui, H. Y., Zheng, X., **Zhao, Q. Q.**, & Fang, Y. (2021). Preventive maintenance of multiple components for hydraulic tension systems. **Eksploatacja i Niezawodnosc – Maintenance and Reliability**, 23(3), 489–497.
+
+7. Shi, Y., Zhou, Y., Ye, W., & **Zhao, Q. Q.** (2020). A relative robust optimization for a vehicle routing problem with time-window and synchronized visits considering greenhouse gas emissions. **Journal of Cleaner Production**, 275, 124112.
+
+8. Xu, C., Jing, Y., Shen, B., Zhou, Y., & **Zhao, Q. Q.** Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences. **Expert Systems with Applications**, 213(8), 118877.
+
+9. 赵倩倩, 周艳杰. (2023). “生产系统建模与仿真”课程教学改革——基于CDIO标准教育教学论坛. **教育教学论坛**, (13), 46–50.
+
+10. **Zhao, Q. Q.**, Yoo, J. Y., Dohi, T., & Yun, W. Y. (2024). Optimum maintenance units in multi-indenture systems. **Quality and Reliability Engineering International**, 40, 2792–2821.
+
+11. 兑红炎, 宋佳颖, 赵倩倩, 王宁. (2024). 考虑两类错误的贮存系统两阶段检测模型和成本分析. **数理统计与管理**, 4(3), 656–666.
+
+12. Ye, Z., Cai, Z., Yang, H., Si, S., & **Zhao, Q. Q.** Enhancing adaptive failure risk prognosis for cutting tools in heterogeneous working environments: A comprehensive modeling framework. **Expert Systems with Applications**, 280, 127527.
+
+13. Zhou, Y., Luo, L., **Zhao, Q. Q.**, Chen, H., Qian, Z., & Leng, S. Influence index analysis of inland waterway ports along the Yangtze River. **European Journal of Industrial Engineering**, 20(2), 183–215.
+
+14. **Zhao, Q. Q.**, Kim, J. W., Chung, I. H., & Yun, W. Y. (2026). Optimal redundancy allocation in multi-indenture systems considering human error-induced common cause failures. **Machines**, 14(6), 627, 1–14.
+
 
 Conference Publications
 ------
